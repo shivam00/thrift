@@ -1,4 +1,4 @@
-Apache Thrift
+Apache Thrift DOC
 =============
 
 Introduction
