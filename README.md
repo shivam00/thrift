@@ -1,5 +1,5 @@
 Apache Thrift DOC
-=============
+=================
 
 Introduction
 ============
