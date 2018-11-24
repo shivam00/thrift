@@ -1,6 +1,5 @@
 Apache Thrift 
 =============
-
 Introduction
 ============
 
