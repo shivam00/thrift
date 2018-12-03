@@ -1,7 +1,5 @@
 Apache Thrift 
 =============
-Introduction
-============
 
 Thrift is a lightweight, language-independent software stack with an
 associated code generation mechanism for point-to-point RPC. Thrift provides 
