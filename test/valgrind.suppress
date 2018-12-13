@@ -4,8 +4,7 @@
    match-leak-kinds: reachable
    fun:malloc
    fun:_ZN5boost6detail25get_once_per_thread_epochEv
-}
-{
+}{
    boostthreads/once/ignore
    Helgrind:Race
    fun:_ZN5boost13thread_detail17enter_once_regionERNS_9once_flagE
