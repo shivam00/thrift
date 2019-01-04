@@ -24,7 +24,6 @@ in your particular subdirectory of interest.
 
 Status
 ======
-
 | Branch | Travis | Appveyor | Coverity Scan | codecov.io | Website |
 | :----- | :----- | :------- | :------------ | :--------- | :------ |
 | [`master`](https://github.com/apache/thrift/tree/master) | [![Build Status](https://travis-ci.org/apache/thrift.svg?branch=master)](https://travis-ci.org/apache/thrift) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/thrift?branch=master&svg=true)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/thrift/history) | [![Coverity Scan Build Status](https://scan.coverity.com/projects/1345/badge.svg)](https://scan.coverity.com/projects/thrift) | | [![Website](https://img.shields.io/badge/official-website-brightgreen.svg)](https://thrift.apache.org/) |
